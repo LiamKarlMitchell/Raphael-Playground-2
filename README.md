@@ -7,6 +7,8 @@ See the snippets folder for example code you could put in the edit box.
 
 Any raphael code should work the canvas instance is called paper.
 
+[Try it out here](http://htmlpreview.github.io/?https://github.com/LiamKarlMitchell/Raphael-Playground-2/blob/master/index.html)
+
 ````
 paper.path('m100,100 l100,0 l0,100 l-100,0 z').attr('fill','#FF0000');
 ````
